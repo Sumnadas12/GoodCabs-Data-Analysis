@@ -9,7 +9,8 @@ Power BI: For creating interactive dashboards and visual reports.
 
 Excel: For data exploration and some analysis.
 
-📈 Key Insights & Recommendations
+📈 Key Insights & Recommendations:
+
 1.Introduce loyalty program:
 Introduce a loyalty program to reward repeat customers. For example, passengers might get a message saying, “Your 5th ride this month is free!” This initiative will encourage customer retention, increase ride frequency, and demonstrate GoodCabs’ commitment to value the loyal passengers.
 
@@ -25,5 +26,6 @@ GoodCabs drivers represent the company. By giving them training and rewards for 
 5.Plan Smarter with Technology:
 GoodCabs can use tech to predict where rides will be needed most. For example, if there’s a concert coming up, cabs can be placed nearby in advance. This reduces waiting times and keeps things running smoothly.
 
-🚀 Conclusion
+🚀 Conclusion:
+
 By implementing these recommendations, Goodcabs can optimize its operations, improve customer retention, and enhance overall service quality across tier-2 cities. The project aims to ensure sustainable growth by balancing customer needs, driver satisfaction, and most important business profitability.
