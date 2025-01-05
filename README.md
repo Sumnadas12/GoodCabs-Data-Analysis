@@ -1,4 +1,4 @@
-# GoodCabs-Data-AnalysisGoodcabs Performance Analysis
+# Goodcabs Performance Analysis
 This repository contains the comprehensive analysis of Goodcabs, a cab service provider operating across tier-2 cities in India. The project focuses on identifying key performance metrics, providing actionable insights, and recommending strategies to improve operational efficiency and customer satisfaction.
 
 🛠️ Tools Used
